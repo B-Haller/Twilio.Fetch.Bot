@@ -1,0 +1,21 @@
+C:\Users\Brandon\documents\visual studio 2015\Projects\TwilioTestApp\TwilioTestApp\obj\Debug\TwilioFetchBot.csprojResolveAssemblyReference.cache
+C:\Users\Brandon\documents\visual studio 2015\Projects\TwilioTestApp\TwilioTestApp\obj\Debug\TwilioTestApp.exe
+C:\Users\Brandon\documents\visual studio 2015\Projects\TwilioTestApp\TwilioTestApp\obj\Debug\TwilioTestApp.pdb
+C:\Users\Brandon\documents\visual studio 2015\Projects\TwilioTestApp\TwilioTestApp\bin\Debug\TwilioTestApp.exe.config
+C:\Users\Brandon\documents\visual studio 2015\Projects\TwilioTestApp\TwilioTestApp\bin\Debug\TwilioTestApp.exe
+C:\Users\Brandon\documents\visual studio 2015\Projects\TwilioTestApp\TwilioTestApp\bin\Debug\TwilioTestApp.pdb
+C:\Users\Brandon\documents\visual studio 2015\Projects\TwilioTestApp\TwilioTestApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Brandon\documents\visual studio 2015\Projects\TwilioTestApp\TwilioTestApp\bin\Debug\RestSharp.dll
+C:\Users\Brandon\documents\visual studio 2015\Projects\TwilioTestApp\TwilioTestApp\bin\Debug\Twilio.Api.dll
+C:\Users\Brandon\documents\visual studio 2015\Projects\TwilioTestApp\TwilioTestApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Brandon\documents\visual studio 2015\Projects\TwilioTestApp\TwilioTestApp\bin\Debug\RestSharp.xml
+C:\Users\Brandon\documents\visual studio 2015\Projects\TwilioTestApp\TwilioTestApp\bin\Debug\Twilio.Api.pdb
+C:\Users\Brandon\documents\visual studio 2015\Projects\TwilioTestApp\TwilioTestApp\bin\Debug\Twilio.Api.xml
+C:\Users\Brandon\documents\visual studio 2015\Projects\TwilioTestApp\TwilioTestApp\bin\Debug\log4net.dll
+C:\Users\Brandon\documents\visual studio 2015\Projects\TwilioTestApp\TwilioTestApp\bin\Debug\log4net.xml
+F:\Documents\Visual Studio 2015\Projects\TwilioFetchBot\TwilioFetchBot\bin\Debug\TwilioTestApp.exe.config
+F:\Documents\Visual Studio 2015\Projects\TwilioFetchBot\TwilioFetchBot\obj\Debug\TwilioTestApp.exe
+F:\Documents\Visual Studio 2015\Projects\TwilioFetchBot\TwilioFetchBot\obj\Debug\TwilioTestApp.pdb
+F:\Documents\GitHub\Twilio.Fetch.Bot\TwilioFetchBot\bin\Debug\TwilioTestApp.exe.config
+F:\Documents\GitHub\Twilio.Fetch.Bot\TwilioFetchBot\obj\Debug\TwilioTestApp.exe
+F:\Documents\GitHub\Twilio.Fetch.Bot\TwilioFetchBot\obj\Debug\TwilioTestApp.pdb
