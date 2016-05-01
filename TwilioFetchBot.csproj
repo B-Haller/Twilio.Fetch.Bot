@@ -60,14 +60,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ImageGetter\GoogleImageGetter.cs" />
-    <Compile Include="ImageGetter\ImgurImageGetter.cs" />
-    <Compile Include="Twilio\Twilio.cs" />
-    <Compile Include="WebAPI\Responses\ImgurResponseModels\GalleryImages.cs" />
-    <Compile Include="WebAPI\Queries\ImgurSearchModels\ImgurSearchModels.cs" />
-    <Compile Include="WebAPI\Tokens\ImgurCredentials.cs" />
-    <Compile Include="WebAPI\Tokens\ITokens.cs" />
-    <Compile Include="WebAPI\Tokens\TwilioCredentials.cs" />
+    <Compile Include="Google\GoogleImageGetter.cs" />
+    <Compile Include="Imgur\ImgurImageGetter.cs" />
+    <Compile Include="WebAPI Models\Responses\ImgurResponseModels\GalleryImages.cs" />
+    <Compile Include="WebAPI Models\Queries\ImgurSearchModels\ImgurSearchModels.cs" />
+    <Compile Include="WebAPI Models\Tokens\ImgurCredentials.cs" />
+    <Compile Include="WebAPI Models\Tokens\ITokens.cs" />
+    <Compile Include="WebAPI Models\Tokens\TwilioCredentials.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Twilio\RestClient.cs" />

@@ -9,7 +9,7 @@ using System.Linq;
 using System.Text.RegularExpressions;
 using Newtonsoft.Json;
 
-namespace TwilioFetchBot.ImageGetter
+namespace TwilioFetchBot.Google
 {
     public class ImgurImageGetter
     {

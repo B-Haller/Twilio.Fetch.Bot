@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Timers;
 using log4net;
-using TwilioFetchBot.ImageGetter;
-using static TwilioFetchBot.ImageGetter.ImgurImageGetter;
+using TwilioFetchBot.Google;
+using static TwilioFetchBot.Google.ImgurImageGetter;
 using System.Threading;
 
 namespace TwilioFetchBot
@@ -39,15 +39,6 @@ namespace TwilioFetchBot
             }
             timer1.Stop();
 
-            //RestClient client = new RestClient();
-            //var getAllInbound = client.GetAllInboundMessages();
-            //var getAllMessages = client.GetAllMessages();
-            //var getLatest = client.GetLatestInboundMessage();
-            //var getLatestSent = client.GetLastSentMessage();
-            //var getAllSent = client.GetAllSentMessages();
-            //var findInMessage = client.FindMessagesByQuery(getAllMessages, "pop");
-
-            //RunProgram(getTopViewedImage.link);
         }
 
         static string GetFrom()
@@ -100,29 +91,6 @@ namespace TwilioFetchBot
             Console.WriteLine($"The message was sent with the following status: {status}");
             Console.WriteLine($"The message has the following ID: {messageid}");
             Console.ReadKey();
-
-        }
-
-        static void RunProgram(string mediaUrl)
-        {
-            var useAgain = true;
-
-            while (useAgain)
-            {
-                //var searchCriteria = GetSearchQueries();
-                //var googleImages = new GoogleImageGetter(searchCriteria);
-                //string[] mediaUrl = GetRandomImageResult(googleImages.Urls);
-                RestClient client = new RestClient();
-                var message = client.SendMessage(GetFrom(), GetTo(), GetMessage(), mediaUrl);
-                Results(message.Status, message.Sid);
-                Console.Clear();
-                Console.WriteLine("Send a new message? 1: Yes 2: No");
-                var response = int.Parse((Console.ReadKey().KeyChar.ToString()));
-                if (response == 2)
-                {
-                    useAgain = false;
-                }
-            }
 
         }
 

@@ -19,3 +19,6 @@ F:\Documents\Visual Studio 2015\Projects\TwilioFetchBot\TwilioFetchBot\obj\Debug
 F:\Documents\GitHub\Twilio.Fetch.Bot\TwilioFetchBot\bin\Debug\TwilioTestApp.exe.config
 F:\Documents\GitHub\Twilio.Fetch.Bot\TwilioFetchBot\obj\Debug\TwilioTestApp.exe
 F:\Documents\GitHub\Twilio.Fetch.Bot\TwilioFetchBot\obj\Debug\TwilioTestApp.pdb
+F:\Documents\GitHub\Twilio.Fetch.Bot\bin\Debug\TwilioTestApp.exe.config
+F:\Documents\GitHub\Twilio.Fetch.Bot\obj\Debug\TwilioTestApp.exe
+F:\Documents\GitHub\Twilio.Fetch.Bot\obj\Debug\TwilioTestApp.pdb
